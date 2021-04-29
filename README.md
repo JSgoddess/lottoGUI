@@ -1,2 +1,2 @@
 # lottoGUI
-Python build Lottery number generated app. 
+Python built Lottery number generated app. 
